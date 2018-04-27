@@ -34,7 +34,7 @@ public class HomeController {
 		model.addAttribute("serverTime", formattedDate );
 		
 		
-		//test
+		//test commit
 		return "home";
 	}
 	
